@@ -1,6 +1,6 @@
 ### Hi coder 👋
 
-![](https://github-readme-stats.vercel.app/api?username=PepeMax&count_private=true&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=PepeMax&count_private=true&show_icons=true&theme=merko)
 
 * 🔭 Currently working on Ionic (Angular and HTML), Arduino, JavaScript
 * 📖 I know nothing so I'm curious about everything and I want to learn more !!!
