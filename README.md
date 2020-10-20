@@ -58,6 +58,10 @@
 <br />
 <br />
 
+### My favorite soung (FR) :
+[![Je code avec le cul](https://img.youtube.com/vi/MYZ67-Sh7kM/0.jpg)](https://www.youtube.com/watch?v=MYZ67-Sh7kM)
+
+
 [website]: #
 [twitter]: https://twitter.com/maxime_denost
 [youtube]: https://youtube.com/channel/UC0SeU7OsUzY-V-JKYJqcc3A
